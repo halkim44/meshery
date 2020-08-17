@@ -95,8 +95,6 @@ See [getting started](https://meshery.io/#getting-started) to quickly deploy Mes
         <tr><td class="beta-adapters"></td></tr>
         <tr>
           <td rowspan="5" class="alpha-adapters">alpha</td>
-        </tr>
-        <tr>
           <td><a href="https://github.com/layer5io/meshery-maesh">
             <img src='https://github.com/containous/maesh/raw/master/docs/content/assets/img/maesh.png' alt='Maesh Service Mesh' align="middle" hspace="5px" vspace="5px" height="30px" width="30px">Meshery adapter for Maesh</a>
           </td>
@@ -116,7 +114,6 @@ See [getting started](https://meshery.io/#getting-started) to quickly deploy Mes
             <img src='docs/_adapters/osm/Osm.svg' alt='Open Service Mesh' align="middle" hspace="5px" vspace="5px" height="30px" width="30px">Meshery adapter for Open Service Mesh</a>
           </td>
         </tr>
-        <tr>
         <tr><td class="alpha-adapters"></td></tr>
         </tbody>
     </table>
